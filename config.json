@@ -10,7 +10,37 @@
             "seatid": ["102"],
             "seatPageId": "3727",
             "fidEnc": "3c259958eb5103a7",
-            "daysofweek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+            "daysofweek": ["Monday"]
+        },
+        {
+            "username": "",
+            "password": "",
+            "times": ["16:00", "22:00"],
+            "roomid": "11229",
+            "seatid": ["102"],
+            "seatPageId": "3727",
+            "fidEnc": "3c259958eb5103a7",
+            "daysofweek": ["Tuesday"]
+        },
+        {
+            "username": "",
+            "password": "",
+            "times": ["14:00", "22:00"],
+            "roomid": "11229",
+            "seatid": ["102"],
+            "seatPageId": "3727",
+            "fidEnc": "3c259958eb5103a7",
+            "daysofweek": ["Wednesday"]
+        },
+        {
+            "username": "",
+            "password": "",
+            "times": ["09:00", "22:00"],
+            "roomid": "11229",
+            "seatid": ["102"],
+            "seatPageId": "3727",
+            "fidEnc": "3c259958eb5103a7",
+            "daysofweek": ["Thursday"]
         },
         {
             "username": "",
@@ -20,7 +50,17 @@
             "seatid": ["102"],
             "seatPageId": "3727",
             "fidEnc": "3c259958eb5103a7",
-            "daysofweek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+            "daysofweek": ["Friday"]
+        },
+         {
+            "username": "",
+            "password": "",
+            "times": ["09:00", "22:00"],
+            "roomid": "11229",
+            "seatid": ["102"],
+            "seatPageId": "3727",
+            "fidEnc": "3c259958eb5103a7",
+            "daysofweek": ["Saturday", "Sunday"]
         }
     ],
 
