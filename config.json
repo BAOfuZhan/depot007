@@ -15,9 +15,9 @@
         {
             "username": "",
             "password": "",
-            "times": ["16:00", "22:00"],
+            "times": ["09:00", "15:00"],
             "roomid": "11229",
-            "seatid": ["102"],
+            "seatid": ["080"],
             "seatPageId": "3727",
             "fidEnc": "3c259958eb5103a7",
             "daysofweek": ["Tuesday"]
